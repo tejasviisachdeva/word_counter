@@ -1,0 +1,29 @@
+.card {
+  width: 60%;
+  margin: 5% auto;
+  padding: 3%;
+  border: thin solid #f2f5f7;
+  border-radius: 2%;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.textarea {
+  width: 100%;
+  padding: 2%;
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+.stats {
+  display: flex;
+  gap: 2%;
+  margin-top: 3%;
+}
+
+.stat {
+  flex: 1;
+  padding: 2%;
+  background: #acdff9;
+  border-radius: 5%;
+}
